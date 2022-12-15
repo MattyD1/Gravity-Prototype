@@ -4,6 +4,8 @@ A small project for a creative coding class based on creating a realistic gravit
 
 The simulation takes a sample audio and when ran will match the suns lumniosity with the volume and beats of the music.  Creating a unique reavealing affect of all the planets in orbit.
 
+https://user-images.githubusercontent.com/59319360/207971091-a26cdcee-411e-47c3-a156-260b0ba278e3.mp4
+
 ## Some Screenshots
 
 ![Part 1 of the Simulation](./images/image_2.png)
